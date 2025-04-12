@@ -17,6 +17,6 @@ public class CharacterCalendarController {
     @GetMapping("/{characterId}/skill-days")
     public List<String> getSkillMaterialDays(@PathVariable String characterId) throws IOException {
         System.out.println("💡 API 요청 들어옴: " + characterId);
-        return talentMaterialService.getMaterialDays(characterId);
+        return talentMaterialService.getAvailableDays(characterId);
     }
 }
