@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: skillcalendar
+  profiles:
+    active: local  # 로컬 개발용 설정을 기본 사용

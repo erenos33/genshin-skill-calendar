@@ -1,0 +1,11 @@
+{
+	"id": 100075,
+	"name": "Salt",
+	"sortRank": 321,
+	"description": "A savory seasoning. A precise but adequate amount will elevate the quality of the cuisine.",
+	"category": "EXCHANGE",
+	"typeText": "Cooking Ingredient",
+	"sources": [
+		"Sold at general goods shops"
+	]
+}

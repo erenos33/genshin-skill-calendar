@@ -1,0 +1,11 @@
+{
+	"id": 101234,
+	"name": "Tidalga",
+	"sortRank": 321,
+	"description": "An algae floating with the tides that sustains itself by feeding on substances produced by other plants. Though often mistaken for zooplankton, based on its nature, Tidalga is actually a type of phytoplankton.",
+	"category": "EXCHANGE",
+	"typeText": "Cooking Ingredient",
+	"sources": [
+		"Found in Fontaine's underwater areas"
+	]
+}

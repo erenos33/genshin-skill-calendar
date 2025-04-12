@@ -1,0 +1,11 @@
+{
+	"id": 100076,
+	"name": "Onion",
+	"sortRank": 321,
+	"description": "A spherical vegetable. As vengeance for cutting it, it will make you cry, no matter how brave you are.",
+	"category": "EXCHANGE",
+	"typeText": "Cooking Ingredient",
+	"sources": [
+		"Sold at general goods shops"
+	]
+}

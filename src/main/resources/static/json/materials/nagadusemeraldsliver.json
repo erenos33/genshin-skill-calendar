@@ -1,0 +1,13 @@
+{
+	"id": 104131,
+	"name": "Nagadus Emerald Sliver",
+	"rarity": 2,
+	"sortRank": 12104,
+	"description": "Character Ascension material.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Character Ascension Material",
+	"sources": [
+		"Obtained from the Crafting Bench Conversion Tab",
+		"Check the Enemies Tab in the Adventurer Handbook"
+	]
+}

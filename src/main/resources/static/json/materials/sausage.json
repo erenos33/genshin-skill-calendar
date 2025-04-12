@@ -1,0 +1,11 @@
+{
+	"id": 110011,
+	"name": "Sausage",
+	"sortRank": 322,
+	"description": "Finely minced meat wrapped in a skin. A staple of every meat lover's daily diet.",
+	"category": "EXCHANGE",
+	"typeText": "Cooking Ingredient",
+	"sources": [
+		"Processed"
+	]
+}

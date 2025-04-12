@@ -1,0 +1,12 @@
+{
+	"id": 101220,
+	"name": "Henna Berry",
+	"sortRank": 314,
+	"description": "A fruit that grows even in the most hostile of desert environments. Its vibrant crimson fruits are made even more lovely against a backdrop of yellow sand.",
+	"category": "EXCHANGE",
+	"typeText": "Local Specialty (Sumeru)",
+	"sources": [
+		"Found in the deserts of Sumeru",
+		"Go to collect"
+	]
+}

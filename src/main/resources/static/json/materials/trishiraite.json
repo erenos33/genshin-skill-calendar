@@ -1,0 +1,13 @@
+{
+	"id": 101224,
+	"name": "Trishiraite",
+	"sortRank": 314,
+	"description": "A splendorous stone that can be found in the depths of desolate mountains, seemingly formed from congealed elemental energy.",
+	"category": "EXCHANGE",
+	"typeText": "Local Specialty (Sumeru)",
+	"sources": [
+		"Found in the deserts of Sumeru",
+		"Recommendation: Found in Temir Mountains",
+		"Go to collect"
+	]
+}

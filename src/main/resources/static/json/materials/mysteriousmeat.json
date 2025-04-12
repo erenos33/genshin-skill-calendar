@@ -1,0 +1,11 @@
+{
+	"id": 100097,
+	"name": "Mysterious Meat",
+	"sortRank": 321,
+	"description": "A fresh chunk of meat that seems to be radiating an enigmatic aura. Wonder what it'll taste like?",
+	"category": "EXCHANGE",
+	"typeText": "Cooking Ingredient",
+	"sources": [
+		"Dropped by animals"
+	]
+}

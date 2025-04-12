@@ -1,0 +1,12 @@
+{
+	"id": 100057,
+	"name": "Dandelion Seed",
+	"sortRank": 311,
+	"description": "A tiny seed that rides on the wind. Even without its feathered wings, it still holds the hope from afar within.",
+	"category": "EXCHANGE",
+	"typeText": "Local Specialty (Mondstadt)",
+	"sources": [
+		"Recommendation: Found at Mondstadt gates",
+		"Go to collect"
+	]
+}

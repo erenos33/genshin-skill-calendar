@@ -1,0 +1,12 @@
+{
+	"id": 101202,
+	"name": "Sakura Bloom",
+	"sortRank": 313,
+	"description": "Blossoms from the Sacred Sakura at the Grand Narukami Shrine, filled with a fondness for Inazuma.",
+	"category": "EXCHANGE",
+	"typeText": "Local Specialty (Inazuma)",
+	"sources": [
+		"Recommendation: Found on Narukami Island",
+		"Go to collect"
+	]
+}

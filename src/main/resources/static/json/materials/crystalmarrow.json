@@ -1,0 +1,12 @@
+{
+	"id": 101203,
+	"name": "Crystal Marrow",
+	"sortRank": 313,
+	"description": "A crystal that contains a sliver of Tatarigami power. Adding this material during smelting will greatly increase the strength and toughness of metals.",
+	"category": "EXCHANGE",
+	"typeText": "Local Specialty (Inazuma)",
+	"sources": [
+		"Recommendation: Found on Yashiori Island",
+		"Go to collect"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"id": 100055,
+	"name": "Small Lamp Grass",
+	"sortRank": 311,
+	"description": "A wild grass that emits light at night. Used in cooking to enhance other flavors.",
+	"category": "EXCHANGE",
+	"typeText": "Local Specialty (Mondstadt)",
+	"sources": [
+		"Recommendation: Found in Wolvendom",
+		"Recommendation: Found in the Whispering Woods",
+		"Go to collect"
+	]
+}

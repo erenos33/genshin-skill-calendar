@@ -1,0 +1,12 @@
+{
+	"id": 100017,
+	"name": "Wheat",
+	"sortRank": 321,
+	"description": "Golden, sun-kissed tassels. Needs to be ground down to flour for further use.",
+	"category": "EXCHANGE",
+	"typeText": "Cooking Ingredient",
+	"sources": [
+		"Found in the wild",
+		"Sold at general goods shops"
+	]
+}

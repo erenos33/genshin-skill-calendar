@@ -1,0 +1,15 @@
+{
+	"id": 101310,
+	"name": "Maple Wood",
+	"rarity": 1,
+	"sortRank": 330,
+	"description": "Timber from the Amur Maple. Excellent quality wood with a fine color and texture.\nCan be used to create furnishings.",
+	"category": "WOOD",
+	"typeText": "Material",
+	"sources": [
+		"Found in the wild",
+		"Recommendation: Cut from Narukami Island",
+		"Purchased from Realm Depot: Wood",
+		"Convert Wood"
+	]
+}

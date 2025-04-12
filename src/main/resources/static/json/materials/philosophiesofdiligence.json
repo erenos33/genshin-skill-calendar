@@ -1,0 +1,17 @@
+{
+	"id": 104315,
+	"name": "Philosophies of Diligence",
+	"rarity": 4,
+	"sortRank": 13105,
+	"description": "Talent Level-Up material.\nIndustriousness is the foundation of the land of Geo.\nIndustriousness is believing in one's own ability to earn a place in the land of the gods through sweat, wisdom, and power.",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Character Talent Material",
+	"dropDomainId": 5261,
+	"dropDomainName": "Domain of Mastery: Heart of the Flames",
+	"daysOfWeek": [
+		"Tuesday",
+		"Friday",
+		"Sunday"
+	],
+	"sources": []
+}

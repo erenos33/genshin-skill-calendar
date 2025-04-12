@@ -1,0 +1,12 @@
+{
+	"id": 101003,
+	"name": "Crystal Chunk",
+	"sortRank": 301,
+	"description": "An uncut crystal. Only professional craftsmanship can bring out its true value.",
+	"category": "EXCHANGE",
+	"typeText": "Forging Ore",
+	"sources": [
+		"Found in the wild",
+		"Recommendation: Found in Stormterror's Lair"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"id": 104102,
+	"name": "Brilliant Diamond Fragment",
+	"rarity": 3,
+	"sortRank": 12101,
+	"description": "Character Ascension material.\n\"Welcome to this world.\"",
+	"category": "AVATAR_MATERIAL",
+	"typeText": "Character Ascension Material",
+	"sources": [
+		"Adventure Rank Reward"
+	]
+}

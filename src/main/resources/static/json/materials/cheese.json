@@ -1,0 +1,11 @@
+{
+	"id": 110009,
+	"name": "Cheese",
+	"sortRank": 322,
+	"description": "Made from fermented milk. High in energy, it's used in a wide range of dishes.",
+	"category": "EXCHANGE",
+	"typeText": "Cooking Ingredient",
+	"sources": [
+		"Processed"
+	]
+}

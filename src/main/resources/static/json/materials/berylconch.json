@@ -1,0 +1,12 @@
+{
+	"id": 101232,
+	"name": "Beryl Conch",
+	"sortRank": 315,
+	"description": "A conch-like structure that gives off a faint glow. Despite the name, it is not a shell but something condensed from pure elemental energy.",
+	"category": "EXCHANGE",
+	"typeText": "Local Specialty (Fontaine)",
+	"sources": [
+		"Recommendation: Found in Salacia Plain",
+		"Go to collect"
+	]
+}

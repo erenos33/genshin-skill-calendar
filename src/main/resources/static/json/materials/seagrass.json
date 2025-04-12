@@ -1,0 +1,11 @@
+{
+	"id": 101210,
+	"name": "Seagrass",
+	"sortRank": 321,
+	"description": "A plant that grows in shallow seas. It adds a unique flavor to dishes.",
+	"category": "EXCHANGE",
+	"typeText": "Cooking Ingredient",
+	"sources": [
+		"Found in Inazuman seawater"
+	]
+}

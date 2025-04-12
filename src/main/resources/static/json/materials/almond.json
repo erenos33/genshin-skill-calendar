@@ -1,0 +1,12 @@
+{
+	"id": 100089,
+	"name": "Almond",
+	"sortRank": 321,
+	"description": "A seed with a peculiar fragrance that gives food a refreshing taste.",
+	"category": "EXCHANGE",
+	"typeText": "Cooking Ingredient",
+	"sources": [
+		"Sold at general goods shops in Liyue",
+		"Sold at general goods shops in Fontaine"
+	]
+}
