@@ -8,9 +8,7 @@ import org.springframework.core.io.Resource;
 import org.springframework.stereotype.Service;
 
 import java.io.File;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 @Service
 @RequiredArgsConstructor
@@ -19,35 +17,56 @@ public class TalentMaterialService {
     private final ObjectMapper objectMapper;
 
     public List<String> getAvailableDays(String characterName) {
+        Set<Integer> materialIds = new HashSet<>();
+
         try {
-            // 1. 캐릭터 JSON 불러오기
-            Resource talentResource = new ClassPathResource("static/json/talents/" + characterName.toLowerCase() + ".json");
-            File talentFile = talentResource.getFile();
-            JsonNode root = objectMapper.readTree(talentFile);
+            // 1. 캐릭터 JSON 열기
+            Resource characterResource = new ClassPathResource("static/json/talents/" + characterName.toLowerCase() + ".json");
+            File characterFile = characterResource.getFile();
+            JsonNode root = objectMapper.readTree(characterFile);
 
-            // 2. 필요한 재료 이름 추출 (e.g. "자유의 가르침")
-            JsonNode materialNode = root.path("lvl2").path(1);
-            if (materialNode.isMissingNode()) return Collections.emptyList();
+            JsonNode costs = root.path("costs");
+            if (costs.isMissingNode()) return Collections.emptyList();
 
-            String materialName = materialNode.asText().replaceAll("\\s", "") + ".json";
-
-            // 3. 해당 재료 JSON 열기
-            Resource materialResource = new ClassPathResource("static/json/materials/" + materialName);
-            File materialFile = materialResource.getFile();
-            JsonNode materialJson = objectMapper.readTree(materialFile);
-
-            // 4. 요일 정보 추출
-            JsonNode daysNode = materialJson.path("daysOfWeek");
-            if (daysNode == null || !daysNode.isArray()) return Collections.emptyList();
-
-            List<String> result = new ArrayList<>();
-            for (JsonNode day : daysNode) {
-                result.add(day.asText());
+            // 2. lvl2~lvl10 순회하며 모든 재료 id 수집
+            for (int i = 2; i <= 10; i++) {
+                JsonNode levelNode = costs.path("lvl" + i);
+                if (levelNode.isArray()) {
+                    for (JsonNode item : levelNode) {
+                        if (item.has("id")) {
+                            materialIds.add(item.get("id").asInt());
+                        }
+                    }
+                }
             }
-            return result;
+
+            // 3. materials 폴더 안의 모든 json 파일 탐색
+            Resource materialFolder = new ClassPathResource("static/json/materials");
+            File[] files = materialFolder.getFile().listFiles((dir, name) -> name.endsWith(".json"));
+
+            if (files == null) return Collections.emptyList();
+
+            Set<String> result = new HashSet<>();
+            for (File file : files) {
+                try {
+                    JsonNode material = objectMapper.readTree(file);
+                    int id = material.path("id").asInt();
+                    if (materialIds.contains(id)) {
+                        JsonNode daysNode = material.path("daysOfWeek");
+                        if (daysNode != null && daysNode.isArray()) {
+                            for (JsonNode day : daysNode) {
+                                result.add(day.asText());
+                            }
+                        }
+                    }
+                } catch (Exception ignore) {
+                }
+            }
+
+            return new ArrayList<>(result);
 
         } catch (Exception e) {
-            return Collections.emptyList(); // 오류 발생 시 빈 리스트
+            return Collections.emptyList();
         }
     }
 }
