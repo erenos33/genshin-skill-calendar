@@ -1,0 +1,4844 @@
+[
+  {
+    "fileName": "adhigamawood.json",
+    "id": 101315,
+    "name": "Adhigama Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "adventureexp.json",
+    "id": 102,
+    "name": "Adventure EXP",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "adventurersexperience.json",
+    "id": 104002,
+    "name": "Adventurer's Experience",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "afloweryettobloom.json",
+    "id": 112077,
+    "name": "A Flower Yet to Bloom",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "agentssacrificialknife.json",
+    "id": 112030,
+    "name": "Agent's Sacrificial Knife",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "agnidusagatechunk.json",
+    "id": 104113,
+    "name": "Agnidus Agate Chunk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "agnidusagatefragment.json",
+    "id": 104112,
+    "name": "Agnidus Agate Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "agnidusagategemstone.json",
+    "id": 104114,
+    "name": "Agnidus Agate Gemstone",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "agnidusagatesliver.json",
+    "id": 104111,
+    "name": "Agnidus Agate Sliver",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "aizenmedaka.json",
+    "id": 131003,
+    "name": "Aizen Medaka",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ajilenakhnut.json",
+    "id": 101221,
+    "name": "Ajilenakh Nut",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "akaimaou.json",
+    "id": 131009,
+    "name": "Akai Maou",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "akossakevessel.json",
+    "id": 200107,
+    "name": "Ako's Sake Vessel",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "alchemeter.json",
+    "id": 120876,
+    "name": "Alchemeter",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "alienlifecore.json",
+    "id": 112091,
+    "name": "Alien Life Core",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "alkahest.json",
+    "id": 200108,
+    "name": "Alkahest",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "almond.json",
+    "id": 100089,
+    "name": "Almond",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "amakumofruit.json",
+    "id": 101208,
+    "name": "Amakumo Fruit",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "amethystlump.json",
+    "id": 101008,
+    "name": "Amethyst Lump",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "anemosigil.json",
+    "id": 305,
+    "name": "Anemo Sigil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "angleddropbottle.json",
+    "id": 120825,
+    "name": "Angled Drop Bottle",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "apple.json",
+    "id": 100001,
+    "name": "Apple",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "araliawood.json",
+    "id": 101311,
+    "name": "Aralia Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "artificeddynamicgear.json",
+    "id": 112085,
+    "name": "Artificed Dynamic Gear",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "artificedspareclockworkcomponentcoppelia.json",
+    "id": 113049,
+    "name": "Artificed Spare Clockwork Component — Coppelia",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "artificedspareclockworkcomponentcoppelius.json",
+    "id": 113050,
+    "name": "Artificed Spare Clockwork Component — Coppelius",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ashenaratikuwood.json",
+    "id": 101324,
+    "name": "Ashen Aratiku Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ashenheart.json",
+    "id": 113027,
+    "name": "Ashen Heart",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ashwood.json",
+    "id": 101320,
+    "name": "Ash Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "athelwood.json",
+    "id": 101317,
+    "name": "Athel Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "axisofthesecretsource.json",
+    "id": 112113,
+    "name": "Axis of the Secret Source",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "azureobsidianfragment.json",
+    "id": 120914,
+    "name": "Azure Obsidian Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "azureobsidianring.json",
+    "id": 120915,
+    "name": "Azure Obsidian Ring",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "bacon.json",
+    "id": 110010,
+    "name": "Bacon",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "bamboosegment.json",
+    "id": 101305,
+    "name": "Bamboo Segment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "bambooshoot.json",
+    "id": 100091,
+    "name": "Bamboo Shoot",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "basaltpillar.json",
+    "id": 113009,
+    "name": "Basalt Pillar",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "bep.json",
+    "id": 116001,
+    "name": "BEP",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "berry.json",
+    "id": 100051,
+    "name": "Berry",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "berylconch.json",
+    "id": 101232,
+    "name": "Beryl Conch",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "betta.json",
+    "id": 131007,
+    "name": "Betta",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "bewilderingbroadleaf.json",
+    "id": 112117,
+    "name": "Bewildering Broadleaf",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "bigprettycrystal.json",
+    "id": 111022,
+    "name": "Big Pretty Crystal",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "birchwood.json",
+    "id": 101301,
+    "name": "Birch Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "birdegg.json",
+    "id": 100062,
+    "name": "Bird Egg",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "bitofaerosiderite.json",
+    "id": 114023,
+    "name": "Bit of Aerosiderite",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "bitterpufferfish.json",
+    "id": 131020,
+    "name": "Bitter Pufferfish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "blackbronzehorn.json",
+    "id": 112015,
+    "name": "Black Bronze Horn",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "blackcrystalhorn.json",
+    "id": 112016,
+    "name": "Black Crystal Horn",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "blazingheartfeatherbass.json",
+    "id": 131031,
+    "name": "Blazing Heartfeather Bass",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "blazingprismshell.json",
+    "id": 112121,
+    "name": "Blazing Prismshell",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "blazingsacrificialheartshesitance.json",
+    "id": 114062,
+    "name": "Blazing Sacrificial Heart's Hesitance",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "blazingsacrificialheartsresolve.json",
+    "id": 114063,
+    "name": "Blazing Sacrificial Heart's Resolve",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "blazingsacrificialheartssplendor.json",
+    "id": 114064,
+    "name": "Blazing Sacrificial Heart's Splendor",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "blazingsacrificialheartsterror.json",
+    "id": 114061,
+    "name": "Blazing Sacrificial Heart's Terror",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "blessingofthewelkinmoonnewmoon.json",
+    "id": 1202,
+    "name": "Blessing of the Welkin Moon - New Moon",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "bloodjadebranch.json",
+    "id": 113018,
+    "name": "Bloodjade Branch",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "bluedye.json",
+    "id": 101404,
+    "name": "Blue Dye",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "borderlandbowbillet.json",
+    "id": 101117,
+    "name": "Borderland Bow Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "borderlandcatalystbillet.json",
+    "id": 101119,
+    "name": "Borderland Catalyst Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "borderlandclaymorebillet.json",
+    "id": 101118,
+    "name": "Borderland Claymore Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "borderlandpolearmbillet.json",
+    "id": 101120,
+    "name": "Borderland Polearm Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "borderlandswordbillet.json",
+    "id": 101116,
+    "name": "Borderland Sword Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "borealwolfsbrokenfang.json",
+    "id": 114007,
+    "name": "Boreal Wolf's Broken Fang",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "borealwolfscrackedtooth.json",
+    "id": 114006,
+    "name": "Boreal Wolf's Cracked Tooth",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "borealwolfsmilktooth.json",
+    "id": 114005,
+    "name": "Boreal Wolf's Milk Tooth",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "borealwolfsnostalgia.json",
+    "id": 114008,
+    "name": "Boreal Wolf's Nostalgia",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "brightwood.json",
+    "id": 101313,
+    "name": "Brightwood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "brilliantchrysanthemum.json",
+    "id": 101248,
+    "name": "Brilliant Chrysanthemum",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "brilliantdiamondchunk.json",
+    "id": 104103,
+    "name": "Brilliant Diamond Chunk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "brilliantdiamondfragment.json",
+    "id": 104102,
+    "name": "Brilliant Diamond Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "brilliantdiamondgemstone.json",
+    "id": 104104,
+    "name": "Brilliant Diamond Gemstone",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "brilliantdiamondsliver.json",
+    "id": 104101,
+    "name": "Brilliant Diamond Sliver",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "brokengobletofthepristinesea.json",
+    "id": 114057,
+    "name": "Broken Goblet of the Pristine Sea",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "brownshirakodai.json",
+    "id": 131013,
+    "name": "Brown Shirakodai",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "butter.json",
+    "id": 110004,
+    "name": "Butter",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "butterflywings.json",
+    "id": 100072,
+    "name": "Butterfly Wings",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cabbage.json",
+    "id": 100018,
+    "name": "Cabbage",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cacahuatl.json",
+    "id": 101246,
+    "name": "Cacahuatl",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cakefortraveler.json",
+    "id": 118002,
+    "name": "Cake for Traveler",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cakefortraveler-01.json",
+    "id": 118004,
+    "name": "Cake for Traveler",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cakefortraveler-02.json",
+    "id": 118006,
+    "name": "Cake for Traveler",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cakefortraveler-03.json",
+    "id": 118008,
+    "name": "Cake for Traveler",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cakefortraveler-04.json",
+    "id": 118010,
+    "name": "Cake for Traveler",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "callalily.json",
+    "id": 100056,
+    "name": "Calla Lily",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "camandcablesoflaw.json",
+    "id": 200121,
+    "name": "Cam and Cables of Law",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "carrot.json",
+    "id": 100013,
+    "name": "Carrot",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cecilia.json",
+    "id": 100023,
+    "name": "Cecilia",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chainsofthedandeliongladiator.json",
+    "id": 114010,
+    "name": "Chains of the Dandelion Gladiator",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "chaosaxis.json",
+    "id": 112048,
+    "name": "Chaos Axis",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chaosbolt.json",
+    "id": 112070,
+    "name": "Chaos Bolt",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chaoscircuit.json",
+    "id": 112024,
+    "name": "Chaos Circuit",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chaoscore.json",
+    "id": 112025,
+    "name": "Chaos Core",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chaosdevice.json",
+    "id": 112023,
+    "name": "Chaos Device",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chaosgear.json",
+    "id": 112047,
+    "name": "Chaos Gear",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chaosmodule.json",
+    "id": 112069,
+    "name": "Chaos Module",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chaosoculus.json",
+    "id": 112049,
+    "name": "Chaos Oculus",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chaosstorage.json",
+    "id": 112068,
+    "name": "Chaos Storage",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chapterofanancientchord.json",
+    "id": 114050,
+    "name": "Chapter of an Ancient Chord",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "chasmlightfin.json",
+    "id": 112097,
+    "name": "Chasmlight Fin",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cheese.json",
+    "id": 110009,
+    "name": "Cheese",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chenyuadeptea.json",
+    "id": 101242,
+    "name": "Chenyu Adeptea",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chilledmeat.json",
+    "id": 100094,
+    "name": "Chilled Meat",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chonkycatbottle.json",
+    "id": 120829,
+    "name": "Chonky Cat Bottle",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "chunkofaerosiderite.json",
+    "id": 114024,
+    "name": "Chunk of Aerosiderite",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "cleansingheart.json",
+    "id": 113012,
+    "name": "Cleansing Heart",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "clearwaterjade.json",
+    "id": 101241,
+    "name": "Clearwater Jade",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cloudseamscale.json",
+    "id": 113058,
+    "name": "Cloudseam Scale",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "coffeebeans.json",
+    "id": 100098,
+    "name": "Coffee Beans",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "coldcrackedshellshard.json",
+    "id": 112119,
+    "name": "Cold-Cracked Shellshard",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "companionshipexp.json",
+    "id": 105,
+    "name": "Companionship EXP",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "concealedclaw.json",
+    "id": 112056,
+    "name": "Concealed Claw",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "concealedtalon.json",
+    "id": 112058,
+    "name": "Concealed Talon",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "concealedunguis.json",
+    "id": 112057,
+    "name": "Concealed Unguis",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "condensedresin.json",
+    "id": 220007,
+    "name": "Condensed Resin",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "condessencecrystal.json",
+    "id": 101009,
+    "name": "Condessence Crystal",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "congealedpupawax.json",
+    "id": 200115,
+    "name": "Congealed Pupa Wax",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "coppertalismanoftheforestdew.json",
+    "id": 114037,
+    "name": "Copper Talisman of the Forest Dew",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "coralbranchofadistantsea.json",
+    "id": 114025,
+    "name": "Coral Branch of a Distant Sea",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "corlapis.json",
+    "id": 100058,
+    "name": "Cor Lapis",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "crab.json",
+    "id": 100073,
+    "name": "Crab",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "crabroe.json",
+    "id": 100074,
+    "name": "Crab Roe",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cream.json",
+    "id": 110002,
+    "name": "Cream",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "crimsonobsidianfragment.json",
+    "id": 121105,
+    "name": "Crimson Obsidian Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "crimsonobsidianring.json",
+    "id": 121106,
+    "name": "Crimson Obsidian Ring",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "crownofinsight.json",
+    "id": 104319,
+    "name": "Crown of Insight",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cryosigil.json",
+    "id": 306,
+    "name": "Cryo Sigil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "crystalchunk.json",
+    "id": 101003,
+    "name": "Crystal Chunk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "crystalcore.json",
+    "id": 100085,
+    "name": "Crystal Core",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "crystalfish.json",
+    "id": 131005,
+    "name": "Crystalfish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "crystallinebloom.json",
+    "id": 113020,
+    "name": "Crystalline Bloom",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "crystallinecystdust.json",
+    "id": 112061,
+    "name": "Crystalline Cyst Dust",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "crystalmarrow.json",
+    "id": 101203,
+    "name": "Crystal Marrow",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "crystalprism.json",
+    "id": 112051,
+    "name": "Crystal Prism",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cuihuawood.json",
+    "id": 101302,
+    "name": "Cuihua Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cultivationareaexpansioni.json",
+    "id": 120815,
+    "name": "Cultivation Area Expansion (I)",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cultivationareaexpansionii.json",
+    "id": 120816,
+    "name": "Cultivation Area Expansion (II)",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cultivationareaexpansioniii.json",
+    "id": 120817,
+    "name": "Cultivation Area Expansion (III)",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cultivationareaexpansioniv.json",
+    "id": 120818,
+    "name": "Cultivation Area Expansion (IV)",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cultivationareaexpansionv.json",
+    "id": 120819,
+    "name": "Cultivation Area Expansion (V)",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cultivationareaexpansionvi.json",
+    "id": 120820,
+    "name": "Cultivation Area Expansion (VI)",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cultivationareaexpansionvii.json",
+    "id": 120875,
+    "name": "Cultivation Area Expansion (VII)",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "cypresswood.json",
+    "id": 101321,
+    "name": "Cypress Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dakasbell.json",
+    "id": 113043,
+    "name": "Daka's Bell",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "damagedmask.json",
+    "id": 112005,
+    "name": "Damaged Mask",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "damagedprism.json",
+    "id": 112071,
+    "name": "Damaged Prism",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dandelionbookmark.json",
+    "id": 200117,
+    "name": "Dandelion Bookmark",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dandelionseed.json",
+    "id": 100057,
+    "name": "Dandelion Seed",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "darkstatuette.json",
+    "id": 112018,
+    "name": "Dark Statuette",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dawncatcher.json",
+    "id": 131004,
+    "name": "Dawncatcher",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "deadleylinebranch.json",
+    "id": 112020,
+    "name": "Dead Ley Line Branch",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "deadleylineleaves.json",
+    "id": 112021,
+    "name": "Dead Ley Line Leaves",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "deathlystatuette.json",
+    "id": 112019,
+    "name": "Deathly Statuette",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "debrisofdecarabianscity.json",
+    "id": 114002,
+    "name": "Debris of Decarabian's City",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "deliriousdecadenceofthesacredlord.json",
+    "id": 114065,
+    "name": "Delirious Decadence of the Sacred Lord",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "deliriousdemeanorofthesacredlord.json",
+    "id": 114067,
+    "name": "Delirious Demeanor of the Sacred Lord",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "deliriousdesolationofthesacredlord.json",
+    "id": 114066,
+    "name": "Delirious Desolation of the Sacred Lord",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "deliriousdivinityofthesacredlord.json",
+    "id": 114068,
+    "name": "Delirious Divinity of the Sacred Lord",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "dendrobium.json",
+    "id": 101204,
+    "name": "Dendrobium",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dendrosigil.json",
+    "id": 303,
+    "name": "Dendro Sigil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "denialandjudgment.json",
+    "id": 113062,
+    "name": "Denial and Judgment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "desiccatedshell.json",
+    "id": 112074,
+    "name": "Desiccated Shell",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dewofrepudiation.json",
+    "id": 113028,
+    "name": "Dew of Repudiation",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dismalprism.json",
+    "id": 112050,
+    "name": "Dismal Prism",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "divdaray.json",
+    "id": 131021,
+    "name": "Divda Ray",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "divinebodyfromguyun.json",
+    "id": 114016,
+    "name": "Divine Body from Guyun",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "divingrapidfightingfish.json",
+    "id": 131039,
+    "name": "Diving Rapidfighting Fish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "diviningscroll.json",
+    "id": 112008,
+    "name": "Divining Scroll",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dormantfungalnucleus.json",
+    "id": 112063,
+    "name": "Dormant Fungal Nucleus",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dracolite.json",
+    "id": 101255,
+    "name": "Dracolite",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dragonheirsfalsefin.json",
+    "id": 113031,
+    "name": "Dragonheir's False Fin",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dragonlordscrown.json",
+    "id": 113017,
+    "name": "Dragon Lord's Crown",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dreamofscorchingmight.json",
+    "id": 114047,
+    "name": "Dream of Scorching Might",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "dreamofthedandeliongladiator.json",
+    "id": 114012,
+    "name": "Dream of the Dandelion Gladiator",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "dreamsolvent.json",
+    "id": 113021,
+    "name": "Dream Solvent",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "driedfish.json",
+    "id": 110013,
+    "name": "Dried Fish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dropoftaintedwater.json",
+    "id": 112086,
+    "name": "Drop of Tainted Water",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "drossofpuresacreddewdrop.json",
+    "id": 114053,
+    "name": "Dross of Pure Sacred Dewdrop",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "dusksunfish.json",
+    "id": 131042,
+    "name": "Dusk Sunfish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dustofazoth.json",
+    "id": 104201,
+    "name": "Dust of Azoth",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dvalinsclaw.json",
+    "id": 113004,
+    "name": "Dvalin's Claw",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dvalinsplume.json",
+    "id": 113003,
+    "name": "Dvalin's Plume",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "dvalinssigh.json",
+    "id": 113005,
+    "name": "Dvalin's Sigh",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "echoofanancientchord.json",
+    "id": 114052,
+    "name": "Echo of an Ancient Chord",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "echoofscorchingmight.json",
+    "id": 114045,
+    "name": "Echo of Scorching Might",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "eelmeat.json",
+    "id": 100095,
+    "name": "Eel Meat",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "electrocrystal.json",
+    "id": 100054,
+    "name": "Electro Crystal",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "electrosigil.json",
+    "id": 304,
+    "name": "Electro Sigil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "elementaldust.json",
+    "id": 107002,
+    "name": "Elemental Dust",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "embercoreflower.json",
+    "id": 101251,
+    "name": "Embercore Flower",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "emberglowbait.json",
+    "id": 111034,
+    "name": "Emberglow Bait",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "emperorsbalsam.json",
+    "id": 200106,
+    "name": "Emperor's Balsam",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "emperorsresolution.json",
+    "id": 113051,
+    "name": "Emperor's Resolution",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "energynectar.json",
+    "id": 112040,
+    "name": "Energy Nectar",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "enhancementore.json",
+    "id": 104011,
+    "name": "Enhancement Ore",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ensnaringgaze.json",
+    "id": 113067,
+    "name": "Ensnaring Gaze",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "erodedhorn.json",
+    "id": 113068,
+    "name": "Eroded Horn",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "erodedscalefeather.json",
+    "id": 113070,
+    "name": "Eroded Scale-Feather",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "erodedsunfire.json",
+    "id": 113069,
+    "name": "Eroded Sunfire",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "essenceofpuresacreddewdrop.json",
+    "id": 114056,
+    "name": "Essence of Pure Sacred Dewdrop",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "everamber.json",
+    "id": 113048,
+    "name": "Everamber",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "everflameseed.json",
+    "id": 113011,
+    "name": "Everflame Seed",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "evergloomring.json",
+    "id": 113045,
+    "name": "Evergloom Ring",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "exaltedearth.json",
+    "id": 200120,
+    "name": "\"Exalted Earth\"",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fabric.json",
+    "id": 101401,
+    "name": "Fabric",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fadedredsatin.json",
+    "id": 112065,
+    "name": "Faded Red Satin",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fadingcandle.json",
+    "id": 113060,
+    "name": "Fading Candle",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fakeflybait.json",
+    "id": 111026,
+    "name": "Fake Fly Bait",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "falsewormbait.json",
+    "id": 111025,
+    "name": "False Worm Bait",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "famedhandguard.json",
+    "id": 112046,
+    "name": "Famed Handguard",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "featheryfin.json",
+    "id": 112095,
+    "name": "Feathery Fin",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fermentedjuice.json",
+    "id": 100099,
+    "name": "Fermented Juice",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "festeringdragonmarrow.json",
+    "id": 200103,
+    "name": "Festering Dragon Marrow",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fettersofthedandeliongladiator.json",
+    "id": 114009,
+    "name": "Fetters of the Dandelion Gladiator",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "fineenhancementore.json",
+    "id": 104012,
+    "name": "Fine Enhancement Ore",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "firmarrowhead.json",
+    "id": 112011,
+    "name": "Firm Arrowhead",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "firwood.json",
+    "id": 101308,
+    "name": "Fir Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fish.json",
+    "id": 100084,
+    "name": "Fish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "flamingflowerstamen.json",
+    "id": 100053,
+    "name": "Flaming Flower Stamen",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "flammabombwood.json",
+    "id": 101325,
+    "name": "Flammabomb Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "flashingmaintenancemekbait.json",
+    "id": 111031,
+    "name": "Flashing Maintenance Mek Bait",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "floralrapidfightingfish.json",
+    "id": 131038,
+    "name": "Floral Rapidfighting Fish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "flour.json",
+    "id": 110001,
+    "name": "Flour",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "flowhornflounderfinder.json",
+    "id": 200907,
+    "name": "Flowhorn Flounderfinder",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fluorescentfungus.json",
+    "id": 101209,
+    "name": "Fluorescent Fungus",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fontemerunihorn.json",
+    "id": 113053,
+    "name": "Fontemer Unihorn",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "forbiddencursescroll.json",
+    "id": 112010,
+    "name": "Forbidden Curse Scroll",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "foreignsynapse.json",
+    "id": 112090,
+    "name": "Foreign Synapse",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "formaloray.json",
+    "id": 131022,
+    "name": "Formalo Ray",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fossilizedboneshard.json",
+    "id": 112043,
+    "name": "Fossilized Bone Shard",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fowl.json",
+    "id": 100064,
+    "name": "Fowl",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fragileboneshard.json",
+    "id": 112041,
+    "name": "Fragile Bone Shard",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fragmentofagoldenmelody.json",
+    "id": 113059,
+    "name": "Fragment of a Golden Melody",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fragmentofanancientchord.json",
+    "id": 114049,
+    "name": "Fragment of an Ancient Chord",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "fragmentofdecarabiansepic.json",
+    "id": 114003,
+    "name": "Fragment of Decarabian's Epic",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "fragmentsofinnocence.json",
+    "id": 200105,
+    "name": "\"Fragments of Innocence\"",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fragrantcedarwood.json",
+    "id": 101307,
+    "name": "Fragrant Cedar Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fragrantseasoning.json",
+    "id": 101714,
+    "name": "Fragrant Seasoning",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "frog.json",
+    "id": 100081,
+    "name": "Frog",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fruitpastebait.json",
+    "id": 111023,
+    "name": "Fruit Paste Bait",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "fungalspores.json",
+    "id": 112059,
+    "name": "Fungal Spores",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "geosigil.json",
+    "id": 307,
+    "name": "Geo Sigil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "gildedscale.json",
+    "id": 113019,
+    "name": "Gilded Scale",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "glabrousbeans.json",
+    "id": 100096,
+    "name": "Glabrous Beans",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "glazelily.json",
+    "id": 100030,
+    "name": "Glaze Lily",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "glazemedaka.json",
+    "id": 131001,
+    "name": "Glaze Medaka",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "gloomystatuette.json",
+    "id": 112017,
+    "name": "Gloomy Statuette",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "glowgrassbait.json",
+    "id": 111027,
+    "name": "Glowgrass Bait",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "glowinggem.json",
+    "id": 200110,
+    "name": "Glowing Gem",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "glowinghornshroom.json",
+    "id": 101252,
+    "name": "Glowing Hornshroom",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "gnostichymnoldnotes.json",
+    "id": 1201,
+    "name": "Gnostic Hymn - Old Notes",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "goldenbranchofadistantsea.json",
+    "id": 114028,
+    "name": "Golden Branch of a Distant Sea",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "goldengobletofthepristinesea.json",
+    "id": 114060,
+    "name": "Golden Goblet of the Pristine Sea",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "goldenkoi.json",
+    "id": 131011,
+    "name": "Golden Koi",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "goldenraveninsignia.json",
+    "id": 112037,
+    "name": "Golden Raven Insignia",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "goldentalismanoftheforestdew.json",
+    "id": 114040,
+    "name": "Golden Talisman of the Forest Dew",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "goldgildandemerald.json",
+    "id": 120834,
+    "name": "Gold Gild and Emerald",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "goldinscribedsecretsourcecore.json",
+    "id": 113066,
+    "name": "Gold-Inscribed Secret Source Core",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "gorgeousgembottle.json",
+    "id": 120828,
+    "name": "Gorgeous Gem Bottle",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "grainfruit.json",
+    "id": 101243,
+    "name": "Grainfruit",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "grainofaerosiderite.json",
+    "id": 114021,
+    "name": "Grain of Aerosiderite",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "greenobsidianfragment.json",
+    "id": 120912,
+    "name": "Green Obsidian Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "greenobsidianring.json",
+    "id": 120913,
+    "name": "Green Obsidian Ring",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "greenwavesunfish.json",
+    "id": 131041,
+    "name": "Greenwave Sunfish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "guidetoadmonition.json",
+    "id": 104330,
+    "name": "Guide to Admonition",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetoballad.json",
+    "id": 104308,
+    "name": "Guide to Ballad",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetoconflict.json",
+    "id": 104354,
+    "name": "Guide to Conflict",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetocontention.json",
+    "id": 104348,
+    "name": "Guide to Contention",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetodiligence.json",
+    "id": 104314,
+    "name": "Guide to Diligence",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetoelegance.json",
+    "id": 104324,
+    "name": "Guide to Elegance",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetoequity.json",
+    "id": 104339,
+    "name": "Guide to Equity",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetofreedom.json",
+    "id": 104302,
+    "name": "Guide to Freedom",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetogold.json",
+    "id": 104317,
+    "name": "Guide to Gold",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetoingenuity.json",
+    "id": 104333,
+    "name": "Guide to Ingenuity",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetojustice.json",
+    "id": 104342,
+    "name": "Guide to Justice",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetokindling.json",
+    "id": 104351,
+    "name": "Guide to Kindling",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetolight.json",
+    "id": 104327,
+    "name": "Guide to Light",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetoorder.json",
+    "id": 104345,
+    "name": "Guide to Order",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetopraxis.json",
+    "id": 104336,
+    "name": "Guide to Praxis",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetoprosperity.json",
+    "id": 104311,
+    "name": "Guide to Prosperity",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetoresistance.json",
+    "id": 104305,
+    "name": "Guide to Resistance",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "guidetotransience.json",
+    "id": 104321,
+    "name": "Guide to Transience",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "halcyonjadeaxemarlin.json",
+    "id": 131028,
+    "name": "Halcyon Jade Axe Marlin",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ham.json",
+    "id": 110005,
+    "name": "Ham",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "harrafruit.json",
+    "id": 101216,
+    "name": "Harra Fruit",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "heartofthesecretsource.json",
+    "id": 112115,
+    "name": "Heart of the Secret Source",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "heartstoppingheartbottle.json",
+    "id": 120826,
+    "name": "Heartstopping Heart Bottle",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "heavyhorn.json",
+    "id": 112014,
+    "name": "Heavy Horn",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "hellfirebutterfly.json",
+    "id": 113026,
+    "name": "Hellfire Butterfly",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "hennaberry.json",
+    "id": 101220,
+    "name": "Henna Berry",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "heroswit.json",
+    "id": 104003,
+    "name": "Hero's Wit",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "hoarfrostcore.json",
+    "id": 113010,
+    "name": "Hoarfrost Core",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "horsetail.json",
+    "id": 100032,
+    "name": "Horsetail",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "hunterssacrificialknife.json",
+    "id": 112029,
+    "name": "Hunter's Sacrificial Knife",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "huntingtrap.json",
+    "id": 100225,
+    "name": "Hunting Trap",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "hurricaneseed.json",
+    "id": 113001,
+    "name": "Hurricane Seed",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "hydrosigil.json",
+    "id": 302,
+    "name": "Hydro Sigil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ignitedseedoflife.json",
+    "id": 112111,
+    "name": "Ignited Seed of Life",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ignitedseeingeye.json",
+    "id": 112112,
+    "name": "Ignited Seeing Eye",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ignitedstone.json",
+    "id": 112110,
+    "name": "Ignited Stone",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "illusoryleafcoil.json",
+    "id": 112118,
+    "name": "Illusory Leafcoil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "improvedalchemycauldroni.json",
+    "id": 120821,
+    "name": "Improved Alchemy Cauldron (I)",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "improvedalchemycauldronii.json",
+    "id": 120822,
+    "name": "Improved Alchemy Cauldron (II)",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "improvedalchemycauldroniii.json",
+    "id": 120823,
+    "name": "Improved Alchemy Cauldron (III)",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "improvedalchemycauldroniv.json",
+    "id": 120824,
+    "name": "Improved Alchemy Cauldron (IV)",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "inactivatedfungalnucleus.json",
+    "id": 112062,
+    "name": "Inactivated Fungal Nucleus",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "inspectorssacrificialknife.json",
+    "id": 112031,
+    "name": "Inspector's Sacrificial Knife",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "intertwinedfate.json",
+    "id": 223,
+    "name": "Intertwined Fate",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ironchunk.json",
+    "id": 101001,
+    "name": "Iron Chunk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "irontalismanoftheforestdew.json",
+    "id": 114038,
+    "name": "Iron Talisman of the Forest Dew",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "jadebranchofadistantsea.json",
+    "id": 114027,
+    "name": "Jade Branch of a Distant Sea",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "jadeheartfeatherbass.json",
+    "id": 131037,
+    "name": "Jade Heartfeather Bass",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "jam.json",
+    "id": 110008,
+    "name": "Jam",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "jeweledbranchofadistantsea.json",
+    "id": 114026,
+    "name": "Jeweled Branch of a Distant Sea",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "jubilantfeather.json",
+    "id": 107029,
+    "name": "Jubilant Feather",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "jueyunchili.json",
+    "id": 100027,
+    "name": "Jueyun Chili",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "juvenilefang.json",
+    "id": 112101,
+    "name": "Juvenile Fang",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "juvenilejade.json",
+    "id": 113016,
+    "name": "Juvenile Jade",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "kageuchihandguard.json",
+    "id": 112045,
+    "name": "Kageuchi Handguard",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "kalpalatalotus.json",
+    "id": 101217,
+    "name": "Kalpalata Lotus",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "karmaphalawood.json",
+    "id": 101314,
+    "name": "Karmaphala Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "keysigil.json",
+    "id": 100934,
+    "name": "Key Sigil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "keysigil-01.json",
+    "id": 100935,
+    "name": "Key Sigil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "keysigil-02.json",
+    "id": 100936,
+    "name": "Key Sigil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "keysigil-03.json",
+    "id": 100937,
+    "name": "Key Sigil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "keysigil-04.json",
+    "id": 100938,
+    "name": "Key Sigil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lakelightlily.json",
+    "id": 101238,
+    "name": "Lakelight Lily",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lanternfiber.json",
+    "id": 200001,
+    "name": "Lantern Fiber",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lavendermelon.json",
+    "id": 101211,
+    "name": "Lavender Melon",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lazuriteaxemarlin.json",
+    "id": 131027,
+    "name": "Lazurite Axe Marlin",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "leylinesprout.json",
+    "id": 112022,
+    "name": "Ley Line Sprout",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lieutenantsinsignia.json",
+    "id": 112034,
+    "name": "Lieutenant's Insignia",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lightguidingtetrahedron.json",
+    "id": 113039,
+    "name": "Light Guiding Tetrahedron",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lightlesseyeofthemaelstrom.json",
+    "id": 113055,
+    "name": "Lightless Eye of the Maelstrom",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lightlessmass.json",
+    "id": 113056,
+    "name": "Lightless Mass",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lightlesssilkstring.json",
+    "id": 113054,
+    "name": "Lightless Silk String",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lightningprism.json",
+    "id": 113002,
+    "name": "Lightning Prism",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lightrealmcore.json",
+    "id": 101693,
+    "name": "Light Realm Core",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lightrealmsigil.json",
+    "id": 101692,
+    "name": "Light Realm Sigil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lindenwood.json",
+    "id": 101319,
+    "name": "Linden Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lizardtail.json",
+    "id": 100083,
+    "name": "Lizard Tail",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "loachpearl.json",
+    "id": 100090,
+    "name": "Loach Pearl",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "locusofaclearwill.json",
+    "id": 112108,
+    "name": "Locus of a Clear Will",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lotushead.json",
+    "id": 100026,
+    "name": "Lotus Head",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "luckycoin.json",
+    "id": 107021,
+    "name": "Lucky Coin",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lumidoucebell.json",
+    "id": 101235,
+    "name": "Lumidouce Bell",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "luminescentpollen.json",
+    "id": 112060,
+    "name": "Luminescent Pollen",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "luminescentspine.json",
+    "id": 100082,
+    "name": "Luminescent Spine",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "luminoussandsfromguyun.json",
+    "id": 114013,
+    "name": "Luminous Sands from Guyun",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "lumitoile.json",
+    "id": 101237,
+    "name": "Lumitoile",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lunarfin.json",
+    "id": 112096,
+    "name": "Lunar Fin",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lungedstickleback.json",
+    "id": 131006,
+    "name": "Lunged Stickleback",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "lustrousstonefromguyun.json",
+    "id": 114014,
+    "name": "Lustrous Stone from Guyun",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "magicalcrystalchunk.json",
+    "id": 101004,
+    "name": "Magical Crystal Chunk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "magmarapidfightingfish.json",
+    "id": 131040,
+    "name": "Magma Rapidfighting Fish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "maintenancemekgoldleader.json",
+    "id": 131036,
+    "name": "Maintenance Mek: Gold Leader",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "maintenancemekinitialconfiguration.json",
+    "id": 131032,
+    "name": "Maintenance Mek: Initial Configuration",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "maintenancemekplatinumcollection.json",
+    "id": 131035,
+    "name": "Maintenance Mek: Platinum Collection",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "maintenancemeksituationcontroller.json",
+    "id": 131034,
+    "name": "Maintenance Mek: Situation Controller",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "maintenancemekwaterbodycleaner.json",
+    "id": 131033,
+    "name": "Maintenance Mek: Water Body Cleaner",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "majestichookedbeak.json",
+    "id": 113036,
+    "name": "Majestic Hooked Beak",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mallowwood.json",
+    "id": 101318,
+    "name": "Mallow Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "maplewood.json",
+    "id": 101310,
+    "name": "Maple Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "marcotte.json",
+    "id": 101231,
+    "name": "Marcotte",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "marionettecore.json",
+    "id": 113022,
+    "name": "Marionette Core",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "markedshell.json",
+    "id": 112076,
+    "name": "Marked Shell",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "markofthebindingblessing.json",
+    "id": 113064,
+    "name": "Mark of the Binding Blessing",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "martensomnifix.json",
+    "id": 200116,
+    "name": "Martens' Omni-Fix",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "maskofmemories.json",
+    "id": 221018,
+    "name": "Mask of Memories",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "maskofthekijin.json",
+    "id": 114036,
+    "name": "Mask of the Kijin",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "maskoftheonehorned.json",
+    "id": 114035,
+    "name": "Mask of the One-Horned",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "maskofthetigersbite.json",
+    "id": 114034,
+    "name": "Mask of the Tiger's Bite",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "maskofthewickedlieutenant.json",
+    "id": 114033,
+    "name": "Mask of the Wicked Lieutenant",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "masterlessstardust.json",
+    "id": 222,
+    "name": "Masterless Stardust",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "masterlessstarglitter.json",
+    "id": 221,
+    "name": "Masterless Starglitter",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "matchinvitationletter.json",
+    "id": 107020,
+    "name": "Match Invitation Letter",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "matsutake.json",
+    "id": 100063,
+    "name": "Matsutake",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mechanicalspurgear.json",
+    "id": 112084,
+    "name": "Mechanical Spur Gear",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "medaka.json",
+    "id": 131000,
+    "name": "Medaka",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mediumprettycrystal.json",
+    "id": 111021,
+    "name": "Medium Pretty Crystal",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "meshinggear.json",
+    "id": 112083,
+    "name": "Meshing Gear",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "midlanderbowbillet.json",
+    "id": 101112,
+    "name": "Midlander Bow Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "midlandercatalystbillet.json",
+    "id": 101114,
+    "name": "Midlander Catalyst Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "midlanderclaymorebillet.json",
+    "id": 101113,
+    "name": "Midlander Claymore Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "midlanderpolearmbillet.json",
+    "id": 101115,
+    "name": "Midlander Polearm Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "midlanderswordbillet.json",
+    "id": 101111,
+    "name": "Midlander Sword Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "milk.json",
+    "id": 100078,
+    "name": "Milk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mint.json",
+    "id": 100016,
+    "name": "Mint",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mirrorofmushin.json",
+    "id": 113042,
+    "name": "Mirror of Mushin",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mistflowercorolla.json",
+    "id": 100052,
+    "name": "Mist Flower Corolla",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mistgrass.json",
+    "id": 112027,
+    "name": "Mist Grass",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mistgrasspollen.json",
+    "id": 112026,
+    "name": "Mist Grass Pollen",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mistgrasswick.json",
+    "id": 112028,
+    "name": "Mist Grass Wick",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mistveiledgoldelixir.json",
+    "id": 114019,
+    "name": "Mist Veiled Gold Elixir",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "mistveiledleadelixir.json",
+    "id": 114017,
+    "name": "Mist Veiled Lead Elixir",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "mistveiledmercuryelixir.json",
+    "id": 114018,
+    "name": "Mist Veiled Mercury Elixir",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "mistveiledprimoelixir.json",
+    "id": 114020,
+    "name": "Mist Veiled Primo Elixir",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "moltenmoment.json",
+    "id": 113025,
+    "name": "Molten Moment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "moonstringer.json",
+    "id": 200904,
+    "name": "Moonstringer",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mora.json",
+    "id": 202,
+    "name": "Mora",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mountaindatewood.json",
+    "id": 101316,
+    "name": "Mountain Date Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mourningflower.json",
+    "id": 101223,
+    "name": "Mourning Flower",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "movementofanancientchord.json",
+    "id": 114051,
+    "name": "Movement of an Ancient Chord",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "mudraofthemaleficgeneral.json",
+    "id": 113032,
+    "name": "Mudra of the Malefic General",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mushroom.json",
+    "id": 100011,
+    "name": "Mushroom",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mysteriousmeat.json",
+    "id": 100097,
+    "name": "Mysterious Meat",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "mysticenhancementore.json",
+    "id": 104013,
+    "name": "Mystic Enhancement Ore",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "nagadusemeraldchunk.json",
+    "id": 104133,
+    "name": "Nagadus Emerald Chunk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "nagadusemeraldfragment.json",
+    "id": 104132,
+    "name": "Nagadus Emerald Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "nagadusemeraldgemstone.json",
+    "id": 104134,
+    "name": "Nagadus Emerald Gemstone",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "nagadusemeraldsliver.json",
+    "id": 104131,
+    "name": "Nagadus Emerald Sliver",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "nakuweed.json",
+    "id": 101205,
+    "name": "Naku Weed",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "narukamisaffection.json",
+    "id": 114031,
+    "name": "Narukami's Affection",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "narukamisjoy.json",
+    "id": 114030,
+    "name": "Narukami's Joy",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "narukamisvalor.json",
+    "id": 114032,
+    "name": "Narukami's Valor",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "narukamiswisdom.json",
+    "id": 114029,
+    "name": "Narukami's Wisdom",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "narukawaukai.json",
+    "id": 200903,
+    "name": "Narukawa Ukai",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "naturestruefruit.json",
+    "id": 222002,
+    "name": "Nature's True Fruit",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "newborntaintedhydrophantasm.json",
+    "id": 112088,
+    "name": "Newborn Tainted Hydro Phantasm",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "nightwindsmysticaugury.json",
+    "id": 114071,
+    "name": "Night-Wind's Mystic Augury",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "nightwindsmysticconsideration.json",
+    "id": 114069,
+    "name": "Night-Wind's Mystic Consideration",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "nightwindsmysticpremonition.json",
+    "id": 114070,
+    "name": "Night-Wind's Mystic Premonition",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "nightwindsmysticrevelation.json",
+    "id": 114072,
+    "name": "Night-Wind's Mystic Revelation",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "nilotpalalotus.json",
+    "id": 101215,
+    "name": "Nilotpala Lotus",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "noctilucousjade.json",
+    "id": 100028,
+    "name": "Noctilucous Jade",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "northlanderbowbillet.json",
+    "id": 101102,
+    "name": "Northlander Bow Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "northlandercatalystbillet.json",
+    "id": 101104,
+    "name": "Northlander Catalyst Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "northlanderclaymorebillet.json",
+    "id": 101103,
+    "name": "Northlander Claymore Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "northlanderpolearmbillet.json",
+    "id": 101105,
+    "name": "Northlander Polearm Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "northlanderswordbillet.json",
+    "id": 101101,
+    "name": "Northlander Sword Billet",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "oasisgardenskindness.json",
+    "id": 114042,
+    "name": "Oasis Garden's Kindness",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "oasisgardensmourning.json",
+    "id": 114043,
+    "name": "Oasis Garden's Mourning",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "oasisgardensreminiscence.json",
+    "id": 114041,
+    "name": "Oasis Garden's Reminiscence",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "oasisgardenstruth.json",
+    "id": 114044,
+    "name": "Oasis Garden's Truth",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "ointmentofsight.json",
+    "id": 200109,
+    "name": "Ointment of Sight",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "oldendaysofscorchingmight.json",
+    "id": 114048,
+    "name": "Olden Days of Scorching Might",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "oldhandguard.json",
+    "id": 112044,
+    "name": "Old Handguard",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "oldoperativespocketwatch.json",
+    "id": 112092,
+    "name": "Old Operative's Pocket Watch",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ominousmask.json",
+    "id": 112007,
+    "name": "Ominous Mask",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "onikabuto.json",
+    "id": 101201,
+    "name": "Onikabuto",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "onion.json",
+    "id": 100076,
+    "name": "Onion",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "operativesconstancy.json",
+    "id": 112094,
+    "name": "Operative's Constancy",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "operativesstandardpocketwatch.json",
+    "id": 112093,
+    "name": "Operative's Standard Pocket Watch",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "originalfishointment.json",
+    "id": 200111,
+    "name": "Original Fish Ointment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "otogiwood.json",
+    "id": 101312,
+    "name": "Otogi Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "overripeflamegranate.json",
+    "id": 113065,
+    "name": "Overripe Flamegranate",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "padisarah.json",
+    "id": 101214,
+    "name": "Padisarah",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "parasoltalcum.json",
+    "id": 200113,
+    "name": "Parasol Talcum",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "peachofthedeepwaves.json",
+    "id": 131024,
+    "name": "Peach of the Deep Waves",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "peachpalmwood.json",
+    "id": 101326,
+    "name": "Peach Palm Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "pepper.json",
+    "id": 100077,
+    "name": "Pepper",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "perfectgiftribbon.json",
+    "id": 120832,
+    "name": "Perfect Gift Ribbon",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "perpetualcaliber.json",
+    "id": 113038,
+    "name": "Perpetual Caliber",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "perpetualheart.json",
+    "id": 113023,
+    "name": "Perpetual Heart",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "philanemomushroom.json",
+    "id": 100025,
+    "name": "Philanemo Mushroom",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "philosophiesofadmonition.json",
+    "id": 104331,
+    "name": "Philosophies of Admonition",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesofballad.json",
+    "id": 104309,
+    "name": "Philosophies of Ballad",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesofconflict.json",
+    "id": 104355,
+    "name": "Philosophies of Conflict",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesofcontention.json",
+    "id": 104349,
+    "name": "Philosophies of Contention",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesofdiligence.json",
+    "id": 104315,
+    "name": "Philosophies of Diligence",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesofelegance.json",
+    "id": 104325,
+    "name": "Philosophies of Elegance",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesofequity.json",
+    "id": 104340,
+    "name": "Philosophies of Equity",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesoffreedom.json",
+    "id": 104303,
+    "name": "Philosophies of Freedom",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesofgold.json",
+    "id": 104318,
+    "name": "Philosophies of Gold",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesofingenuity.json",
+    "id": 104334,
+    "name": "Philosophies of Ingenuity",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesofjustice.json",
+    "id": 104343,
+    "name": "Philosophies of Justice",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesofkindling.json",
+    "id": 104352,
+    "name": "Philosophies of Kindling",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesoflight.json",
+    "id": 104328,
+    "name": "Philosophies of Light",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesoforder.json",
+    "id": 104346,
+    "name": "Philosophies of Order",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesofpraxis.json",
+    "id": 104337,
+    "name": "Philosophies of Praxis",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesofprosperity.json",
+    "id": 104312,
+    "name": "Philosophies of Prosperity",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesofresistance.json",
+    "id": 104306,
+    "name": "Philosophies of Resistance",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "philosophiesoftransience.json",
+    "id": 104322,
+    "name": "Philosophies of Transience",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "phlogistonenergyorbforgathering.json",
+    "id": 120961,
+    "name": "Phlogiston Energy Orb for Gathering",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "phonyphlogistonunihornfish.json",
+    "id": 131043,
+    "name": "Phony Phlogiston Unihornfish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "pieceofaerosiderite.json",
+    "id": 114022,
+    "name": "Piece of Aerosiderite",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "pinecone.json",
+    "id": 100020,
+    "name": "Pinecone",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "pinewood.json",
+    "id": 101303,
+    "name": "Pine Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "plaustriteshard.json",
+    "id": 200003,
+    "name": "Plaustrite Shard",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "pluielotus.json",
+    "id": 101229,
+    "name": "Pluie Lotus",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "plumeofpurifyinglight.json",
+    "id": 107022,
+    "name": "Plume of Purifying Light",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "plumeofthechangingwinds.json",
+    "id": 200112,
+    "name": "Plume of the Changing Winds",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "polarizingprism.json",
+    "id": 112052,
+    "name": "Polarizing Prism",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "potato.json",
+    "id": 100080,
+    "name": "Potato",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "primogem.json",
+    "id": 201,
+    "name": "Primogem",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "primordialgreenbloom.json",
+    "id": 113047,
+    "name": "Primordial Greenbloom",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "prithivatopazchunk.json",
+    "id": 104173,
+    "name": "Prithiva Topaz Chunk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "prithivatopazfragment.json",
+    "id": 104172,
+    "name": "Prithiva Topaz Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "prithivatopazgemstone.json",
+    "id": 104174,
+    "name": "Prithiva Topaz Gemstone",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "prithivatopazsliver.json",
+    "id": 104171,
+    "name": "Prithiva Topaz Sliver",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "pseudosharkunihornfish.json",
+    "id": 131044,
+    "name": "Pseudoshark Unihornfish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "pseudostamens.json",
+    "id": 113044,
+    "name": "Pseudo-Stamens",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "pufferfish.json",
+    "id": 131019,
+    "name": "Pufferfish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "puppetstrings.json",
+    "id": 113041,
+    "name": "Puppet Strings",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "purpleobsidianfragment.json",
+    "id": 121103,
+    "name": "Purple Obsidian Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "purpleobsidianring.json",
+    "id": 121104,
+    "name": "Purple Obsidian Ring",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "purpleshirakodai.json",
+    "id": 131014,
+    "name": "Purple Shirakodai",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "pyrosigil.json",
+    "id": 301,
+    "name": "Pyro Sigil",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "qingxin.json",
+    "id": 100031,
+    "name": "Qingxin",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "quelledcreeper.json",
+    "id": 113040,
+    "name": "Quelled Creeper",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "quenepaberry.json",
+    "id": 101249,
+    "name": "Quenepa Berry",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "radiantprism.json",
+    "id": 112073,
+    "name": "Radiant Prism",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "radish.json",
+    "id": 100014,
+    "name": "Radish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "raimeiangelfish.json",
+    "id": 131017,
+    "name": "Raimei Angelfish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "rainbowrose.json",
+    "id": 101236,
+    "name": "Rainbow Rose",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "raspberryredflyingflowerfeather.json",
+    "id": 120833,
+    "name": "Raspberry-Red Flying Flower Feather",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "rawmeat.json",
+    "id": 100061,
+    "name": "Raw Meat",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "recruitsinsignia.json",
+    "id": 112032,
+    "name": "Recruit's Insignia",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "redberryshroom.json",
+    "id": 101256,
+    "name": "Red Berryshroom",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "reddye.json",
+    "id": 101402,
+    "name": "Red Dye",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "redrotbait.json",
+    "id": 111024,
+    "name": "Redrot Bait",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "refractivebud.json",
+    "id": 112116,
+    "name": "Refractive Bud",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "relicfromguyun.json",
+    "id": 114015,
+    "name": "Relic from Guyun",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "remnantglowofscorchingmight.json",
+    "id": 114046,
+    "name": "Remnant Glow of Scorching Might",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "resplendentasacrystalfly.json",
+    "id": 120831,
+    "name": "Resplendent as a Crystalfly",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "rice.json",
+    "id": 100092,
+    "name": "Rice",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "richredbrocade.json",
+    "id": 112067,
+    "name": "Rich Red Brocade",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "riftbornregalia.json",
+    "id": 113030,
+    "name": "Riftborn Regalia",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "riftcore.json",
+    "id": 112089,
+    "name": "Rift Core",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "rimeworncrystal.json",
+    "id": 200102,
+    "name": "Rime-Worn Crystal",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "rimewornfragment.json",
+    "id": 200101,
+    "name": "Rime-Worn Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ringofboreas.json",
+    "id": 113007,
+    "name": "Ring of Boreas",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ripplingheartfeatherbass.json",
+    "id": 131030,
+    "name": "Rippling Heartfeather Bass",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "robustfungalnucleus.json",
+    "id": 112064,
+    "name": "Robust Fungal Nucleus",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "romaritimeflower.json",
+    "id": 101233,
+    "name": "Romaritime Flower",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ruinedhilt.json",
+    "id": 112098,
+    "name": "Ruined Hilt",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "rukkhashavamushrooms.json",
+    "id": 101213,
+    "name": "Rukkhashava Mushrooms",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "runicfang.json",
+    "id": 113035,
+    "name": "Runic Fang",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "rustykoi.json",
+    "id": 131012,
+    "name": "Rusty Koi",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sakurabloom.json",
+    "id": 101202,
+    "name": "Sakura Bloom",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "salesexpansioncontract.json",
+    "id": 120840,
+    "name": "Sales Expansion Contract",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "salt.json",
+    "id": 100075,
+    "name": "Salt",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sanctifyingelixir.json",
+    "id": 105005,
+    "name": "Sanctifying Elixir",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sandbearerwood.json",
+    "id": 101304,
+    "name": "Sandbearer Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sandgreasepupa.json",
+    "id": 101222,
+    "name": "Sand Grease Pupa",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sandstormangler.json",
+    "id": 131025,
+    "name": "Sandstorm Angler",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sangopearl.json",
+    "id": 101207,
+    "name": "Sango Pearl",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "saurianclawsucculent.json",
+    "id": 101250,
+    "name": "Saurian Claw Succulent",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sauriancrownedwarriorsgoldenwhistle.json",
+    "id": 112106,
+    "name": "Saurian-Crowned Warrior's Golden Whistle",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sausage.json",
+    "id": 110011,
+    "name": "Sausage",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "scarab.json",
+    "id": 101225,
+    "name": "Scarab",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "scatteredpieceofdecarabiansdream.json",
+    "id": 114004,
+    "name": "Scattered Piece of Decarabian's Dream",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "scoopoftaintedwater.json",
+    "id": 112087,
+    "name": "Scoop of Tainted Water",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "scorchedstarshroom.json",
+    "id": 101227,
+    "name": "Scorched Starshroom",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "scrollofthefieryfirmament.json",
+    "id": 222004,
+    "name": "Scroll of the Fiery Firmament",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "seaganoderma.json",
+    "id": 101206,
+    "name": "Sea Ganoderma",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "seagrass.json",
+    "id": 101210,
+    "name": "Seagrass",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sealedscroll.json",
+    "id": 112009,
+    "name": "Sealed Scroll",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "seasonedfang.json",
+    "id": 112102,
+    "name": "Seasoned Fang",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "secretsourcescoutsweeper.json",
+    "id": 131045,
+    "name": "Secret Source Scout Sweeper",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sentryswoodenwhistle.json",
+    "id": 112104,
+    "name": "Sentry's Wooden Whistle",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "serendipity.json",
+    "id": 200905,
+    "name": "Serendipity",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sergeantsinsignia.json",
+    "id": 112033,
+    "name": "Sergeant's Insignia",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shacklesofthedandeliongladiator.json",
+    "id": 114011,
+    "name": "Shackles of the Dandelion Gladiator",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "shadowofthewarrior.json",
+    "id": 113015,
+    "name": "Shadow of the Warrior",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shardofafoullegacy.json",
+    "id": 113014,
+    "name": "Shard of a Foul Legacy",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shardofashatteredwill.json",
+    "id": 112107,
+    "name": "Shard of a Shattered Will",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sharparrowhead.json",
+    "id": 112012,
+    "name": "Sharp Arrowhead",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sheathofthesecretsource.json",
+    "id": 112114,
+    "name": "Sheath of the Secret Source",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shimmeringnectar.json",
+    "id": 112039,
+    "name": "Shimmering Nectar",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shivadajadechunk.json",
+    "id": 104163,
+    "name": "Shivada Jade Chunk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shivadajadefragment.json",
+    "id": 104162,
+    "name": "Shivada Jade Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shivadajadegemstone.json",
+    "id": 104164,
+    "name": "Shivada Jade Gemstone",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shivadajadesliver.json",
+    "id": 104161,
+    "name": "Shivada Jade Sliver",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shopdecorationbloomingatmosphere.json",
+    "id": 120836,
+    "name": "Shop Decoration: Blooming Atmosphere",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shopdecorationbloomingmorale.json",
+    "id": 120835,
+    "name": "Shop Decoration: Blooming Morale",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shopdecorationportentouspotions.json",
+    "id": 120838,
+    "name": "Shop Decoration: Portentous Potions",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shopdecorationpotentpotions.json",
+    "id": 120837,
+    "name": "Shop Decoration: Potent Potions",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shopdecorationprismaticeffects.json",
+    "id": 120839,
+    "name": "Shop Decoration: Prismatic Effects",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shrimpmeat.json",
+    "id": 100093,
+    "name": "Shrimp Meat",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "shuttleofodara.json",
+    "id": 200123,
+    "name": "Shuttle of Odara",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sigilofastridingwill.json",
+    "id": 112109,
+    "name": "Sigil of a Striding Will",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "silkenfeather.json",
+    "id": 113061,
+    "name": "Silken Feather",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "silkenprint.json",
+    "id": 222001,
+    "name": "Silken Print",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "silkflower.json",
+    "id": 100029,
+    "name": "Silk Flower",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "silvergobletofthepristinesea.json",
+    "id": 114059,
+    "name": "Silver Goblet of the Pristine Sea",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "silverlotus.json",
+    "id": 100019,
+    "name": "Silver Lotus",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "silverraveninsignia.json",
+    "id": 112036,
+    "name": "Silver Raven Insignia",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "silvertalismanoftheforestdew.json",
+    "id": 114039,
+    "name": "Silver Talisman of the Forest Dew",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "skysplitgembloom.json",
+    "id": 101254,
+    "name": "Skysplit Gembloom",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "slimeconcentrate.json",
+    "id": 112004,
+    "name": "Slime Concentrate",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "slimecondensate.json",
+    "id": 112002,
+    "name": "Slime Condensate",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "slimesecretions.json",
+    "id": 112003,
+    "name": "Slime Secretions",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "smalllampgrass.json",
+    "id": 100055,
+    "name": "Small Lamp Grass",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "smallprettycrystal.json",
+    "id": 111020,
+    "name": "Small Pretty Crystal",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "smokedfish.json",
+    "id": 110012,
+    "name": "Smoked Fish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "smokedfowl.json",
+    "id": 110003,
+    "name": "Smoked Fowl",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "smolderingpearl.json",
+    "id": 113024,
+    "name": "Smoldering Pearl",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "smolderingphosphorescentflame.json",
+    "id": 200124,
+    "name": "Smoldering Phosphorescent Flame",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "snapdragon.json",
+    "id": 100015,
+    "name": "Snapdragon",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "snowstrider.json",
+    "id": 131010,
+    "name": "Snowstrider",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sourbait.json",
+    "id": 111030,
+    "name": "Sour Bait",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sparklessstatuecore.json",
+    "id": 113072,
+    "name": "Sparkless Statue Core",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "spectralheart.json",
+    "id": 112054,
+    "name": "Spectral Heart",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "spectralhusk.json",
+    "id": 112053,
+    "name": "Spectral Husk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "spectralnucleus.json",
+    "id": 112055,
+    "name": "Spectral Nucleus",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "spice.json",
+    "id": 110014,
+    "name": "Spice",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "spinelfruit.json",
+    "id": 101245,
+    "name": "Spinel Fruit",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "spinelgrainbait.json",
+    "id": 111033,
+    "name": "Spinelgrain Bait",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "spiritlocketofboreas.json",
+    "id": 113008,
+    "name": "Spirit Locket of Boreas",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "splinteredhilt.json",
+    "id": 112099,
+    "name": "Splintered Hilt",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sprayfeathergill.json",
+    "id": 101247,
+    "name": "Sprayfeather Gill",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "springofpuresacreddewdrop.json",
+    "id": 114055,
+    "name": "Spring of Pure Sacred Dewdrop",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "springofthefirstdewdrop.json",
+    "id": 101240,
+    "name": "Spring of the First Dewdrop",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "stainedmask.json",
+    "id": 112006,
+    "name": "Stained Mask",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "starconch.json",
+    "id": 100033,
+    "name": "Starconch",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "starshroom.json",
+    "id": 101212,
+    "name": "Starshroom",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "starsilver.json",
+    "id": 101006,
+    "name": "Starsilver",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "stillsmolderinghilt.json",
+    "id": 112100,
+    "name": "Still-Smoldering Hilt",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "stormbeads.json",
+    "id": 113029,
+    "name": "Storm Beads",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "strangetooth.json",
+    "id": 100618,
+    "name": "Strange Tooth",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "streamingaxemarlin.json",
+    "id": 131029,
+    "name": "Streaming Axe Marlin",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sturdyboneshard.json",
+    "id": 112042,
+    "name": "Sturdy Bone Shard",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sturdyshell.json",
+    "id": 112075,
+    "name": "Sturdy Shell",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "subdetectionunit.json",
+    "id": 101239,
+    "name": "Subdetection Unit",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sublimationofpuresacreddewdrop.json",
+    "id": 114054,
+    "name": "Sublimation of Pure Sacred Dewdrop",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "sugar.json",
+    "id": 110006,
+    "name": "Sugar",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sugardewbait.json",
+    "id": 111028,
+    "name": "Sugardew Bait",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sumerurose.json",
+    "id": 101219,
+    "name": "Sumeru Rose",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sunsetblueobsidianfragment.json",
+    "id": 121107,
+    "name": "Sunset-Blue Obsidian Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sunsetblueobsidianring.json",
+    "id": 121108,
+    "name": "Sunset-Blue Obsidian Ring",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sunsetcloudangler.json",
+    "id": 131026,
+    "name": "Sunset Cloud Angler",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sunsettia.json",
+    "id": 100002,
+    "name": "Sunsettia",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "superduperinvincibleshiningsparklymagiccrystal.json",
+    "id": 200119,
+    "name": "Super-Duper Invincible Shining Sparkly Magic Crystal",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "surgingsacredchalice.json",
+    "id": 200118,
+    "name": "Surging Sacred Chalice",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sweetflower.json",
+    "id": 100012,
+    "name": "Sweet Flower",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "sweetflowermedaka.json",
+    "id": 131002,
+    "name": "Sweet-Flower Medaka",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "swirlingsceneinabottle.json",
+    "id": 222003,
+    "name": "\"Swirling Scene in a Bottle\"",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "tailofboreas.json",
+    "id": 113006,
+    "name": "Tail of Boreas",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "talismanoftheenigmaticland.json",
+    "id": 113071,
+    "name": "Talisman of the Enigmatic Land",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "teachingsofadmonition.json",
+    "id": 104329,
+    "name": "Teachings of Admonition",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsofballad.json",
+    "id": 104307,
+    "name": "Teachings of Ballad",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsofconflict.json",
+    "id": 104353,
+    "name": "Teachings of Conflict",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsofcontention.json",
+    "id": 104347,
+    "name": "Teachings of Contention",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsofdiligence.json",
+    "id": 104313,
+    "name": "Teachings of Diligence",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsofelegance.json",
+    "id": 104323,
+    "name": "Teachings of Elegance",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsofequity.json",
+    "id": 104338,
+    "name": "Teachings of Equity",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsoffreedom.json",
+    "id": 104301,
+    "name": "Teachings of Freedom",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsofgold.json",
+    "id": 104316,
+    "name": "Teachings of Gold",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsofingenuity.json",
+    "id": 104332,
+    "name": "Teachings of Ingenuity",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsofjustice.json",
+    "id": 104341,
+    "name": "Teachings of Justice",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsofkindling.json",
+    "id": 104350,
+    "name": "Teachings of Kindling",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsoflight.json",
+    "id": 104326,
+    "name": "Teachings of Light",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsoforder.json",
+    "id": 104344,
+    "name": "Teachings of Order",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsofpraxis.json",
+    "id": 104335,
+    "name": "Teachings of Praxis",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsofprosperity.json",
+    "id": 104310,
+    "name": "Teachings of Prosperity",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsofresistance.json",
+    "id": 104304,
+    "name": "Teachings of Resistance",
+    "daysOfWeek": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teachingsoftransience.json",
+    "id": 104320,
+    "name": "Teachings of Transience",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "teacoloredshirakodai.json",
+    "id": 131015,
+    "name": "Tea-Colored Shirakodai",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "tearsofthecalamitousgod.json",
+    "id": 113033,
+    "name": "Tears of the Calamitous God",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "thecornerstoneofstarsandflames.json",
+    "id": 113063,
+    "name": "The Cornerstone of Stars and Flames",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "themeaningofaeons.json",
+    "id": 113034,
+    "name": "The Meaning of Aeons",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "theseassilentshade.json",
+    "id": 200122,
+    "name": "\"The Sea's Silent Shade\"",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "thevisiblewinds.json",
+    "id": 200104,
+    "name": "\"The Visible Winds\"",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "thunderclapfruitcore.json",
+    "id": 113037,
+    "name": "Thunderclap Fruitcore",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "tidalga.json",
+    "id": 101234,
+    "name": "Tidalga",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "tileofdecarabianstower.json",
+    "id": 114001,
+    "name": "Tile of Decarabian's Tower",
+    "daysOfWeek": [
+      "Monday",
+      "Thursday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "tofu.json",
+    "id": 100088,
+    "name": "Tofu",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "tomato.json",
+    "id": 100079,
+    "name": "Tomato",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "torchwood.json",
+    "id": 101322,
+    "name": "Torch Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "tourbillondevice.json",
+    "id": 113052,
+    "name": "\"Tourbillon Device\"",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "tranquilbaybottle.json",
+    "id": 120827,
+    "name": "Tranquil Bay Bottle",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "transoceanicchunk.json",
+    "id": 112081,
+    "name": "Transoceanic Chunk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "transoceanicpearl.json",
+    "id": 112080,
+    "name": "Transoceanic Pearl",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "treasuredflower.json",
+    "id": 112078,
+    "name": "Treasured Flower",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "treasurehoarderinsignia.json",
+    "id": 112035,
+    "name": "Treasure Hoarder Insignia",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "trimmedredsilk.json",
+    "id": 112066,
+    "name": "Trimmed Red Silk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "trishiraite.json",
+    "id": 101224,
+    "name": "Trishiraite",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "truefruitangler.json",
+    "id": 131023,
+    "name": "True Fruit Angler",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "turbidprism.json",
+    "id": 112072,
+    "name": "Turbid Prism",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "tuskofmonoceroscaeli.json",
+    "id": 113013,
+    "name": "Tusk of Monoceros Caeli",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "tyrantsfang.json",
+    "id": 112103,
+    "name": "Tyrant's Fang",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "ultrahotburnerlamptestmodel.json",
+    "id": 220060,
+    "name": "Ultra-Hot Burner Lamp Test Model",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "unfadingsilkygrace.json",
+    "id": 200114,
+    "name": "Unfading Silky Grace",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "vajradaamethystchunk.json",
+    "id": 104143,
+    "name": "Vajrada Amethyst Chunk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "vajradaamethystfragment.json",
+    "id": 104142,
+    "name": "Vajrada Amethyst Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "vajradaamethystgemstone.json",
+    "id": 104144,
+    "name": "Vajrada Amethyst Gemstone",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "vajradaamethystsliver.json",
+    "id": 104141,
+    "name": "Vajrada Amethyst Sliver",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "valberry.json",
+    "id": 100022,
+    "name": "Valberry",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "varunadalazuritechunk.json",
+    "id": 104123,
+    "name": "Varunada Lazurite Chunk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "varunadalazuritefragment.json",
+    "id": 104122,
+    "name": "Varunada Lazurite Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "varunadalazuritegemstone.json",
+    "id": 104124,
+    "name": "Varunada Lazurite Gemstone",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "varunadalazuritesliver.json",
+    "id": 104121,
+    "name": "Varunada Lazurite Sliver",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "vayudaturquoisechunk.json",
+    "id": 104153,
+    "name": "Vayuda Turquoise Chunk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "vayudaturquoisefragment.json",
+    "id": 104152,
+    "name": "Vayuda Turquoise Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "vayudaturquoisegemstone.json",
+    "id": 104154,
+    "name": "Vayuda Turquoise Gemstone",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "vayudaturquoisesliver.json",
+    "id": 104151,
+    "name": "Vayuda Turquoise Sliver",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "venomspinefish.json",
+    "id": 131008,
+    "name": "Venomspine Fish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "vialofadeptalspeed.json",
+    "id": 107013,
+    "name": "Vial of Adeptal Speed",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "violetgrass.json",
+    "id": 100034,
+    "name": "Violetgrass",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "viparyas.json",
+    "id": 101228,
+    "name": "Viparyas",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "vitalizeddragontooth.json",
+    "id": 100619,
+    "name": "Vitalized Dragontooth",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "voucherbox.json",
+    "id": 107024,
+    "name": "Voucher Box",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "wanderersadvice.json",
+    "id": 104001,
+    "name": "Wanderer's Advice",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "wanderersbloomingflower.json",
+    "id": 112079,
+    "name": "Wanderer's Blooming Flower",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "warmbackshell.json",
+    "id": 112120,
+    "name": "Warm Back-Shell",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "warriorsmetalwhistle.json",
+    "id": 112105,
+    "name": "Warrior's Metal Whistle",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "waterthatfailedtotranscend.json",
+    "id": 113057,
+    "name": "Water That Failed To Transcend",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "wavepiercer.json",
+    "id": 200906,
+    "name": "Wavepiercer",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "weatheredarrowhead.json",
+    "id": 112013,
+    "name": "Weathered Arrowhead",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "wheat.json",
+    "id": 100017,
+    "name": "Wheat",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "whitechestnutoakwood.json",
+    "id": 101323,
+    "name": "White Chestnut Oak Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "whiteironchunk.json",
+    "id": 101002,
+    "name": "White Iron Chunk",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "whopperflowernectar.json",
+    "id": 112038,
+    "name": "Whopperflower Nectar",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "wickmaterial.json",
+    "id": 200002,
+    "name": "Wick Material",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "wildernessrod.json",
+    "id": 200900,
+    "name": "Wilderness Rod",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "windtangler.json",
+    "id": 200901,
+    "name": "Windtangler",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "windwheelaster.json",
+    "id": 100024,
+    "name": "Windwheel Aster",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "windwheelastersaroma.json",
+    "id": 120830,
+    "name": "Windwheel Aster's Aroma",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "winegobletofthepristinesea.json",
+    "id": 114058,
+    "name": "Wine Goblet of the Pristine Sea",
+    "daysOfWeek": [
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  {
+    "fileName": "wishmaker.json",
+    "id": 200902,
+    "name": "Wishmaker",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "witheringpurpurbloom.json",
+    "id": 101253,
+    "name": "Withering Purpurbloom",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "wolfhook.json",
+    "id": 100021,
+    "name": "Wolfhook",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "worldspanfern.json",
+    "id": 113046,
+    "name": "Worldspan Fern",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "xenochromaticcrystal.json",
+    "id": 112082,
+    "name": "Xenochromatic Crystal",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "yellowdye.json",
+    "id": 101403,
+    "name": "Yellow Dye",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "yellowobsidianfragment.json",
+    "id": 120858,
+    "name": "Yellow Obsidian Fragment",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "yellowobsidianring.json",
+    "id": 120859,
+    "name": "Yellow Obsidian Ring",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "yumemiruwood.json",
+    "id": 101309,
+    "name": "Yumemiru Wood",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "zaytunpeach.json",
+    "id": 101218,
+    "name": "Zaytun Peach",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "abidingangelfish.json",
+    "id": 131016,
+    "name": "Abiding Angelfish",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "acquaintfate.json",
+    "id": 224,
+    "name": "Acquaint Fate",
+    "daysOfWeek": []
+  },
+  {
+    "fileName": "activatedstarshroom.json",
+    "id": 101226,
+    "name": "Activated Starshroom",
+    "daysOfWeek": []
+  }
+]

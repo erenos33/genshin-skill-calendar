@@ -40,14 +40,13 @@ public class TalentMaterialService {
                 }
             }
 
-            // 3. materials 폴더 내 모든 파일을 InputStream으로 순회
-            Resource materialDir = new ClassPathResource("static/json/materials/");
-            String[] materialFileNames = Objects.requireNonNull(materialDir.getFile().list((dir, name) -> name.endsWith(".json")));
+            // 3. materials.json 하나만 열어서 요일 추출
+            Resource materialsJson = new ClassPathResource("static/json/materials.json");
+            try (InputStream is = materialsJson.getInputStream()) {
+                JsonNode materials = objectMapper.readTree(is);
 
-            Set<String> result = new HashSet<>();
-            for (String fileName : materialFileNames) {
-                try (InputStream materialStream = new ClassPathResource("static/json/materials/" + fileName).getInputStream()) {
-                    JsonNode material = objectMapper.readTree(materialStream);
+                Set<String> result = new HashSet<>();
+                for (JsonNode material : materials) {
                     int id = material.path("id").asInt();
                     if (materialIds.contains(id)) {
                         JsonNode daysNode = material.path("daysOfWeek");
@@ -57,11 +56,10 @@ public class TalentMaterialService {
                             }
                         }
                     }
-                } catch (Exception ignore) {
                 }
-            }
 
-            return new ArrayList<>(result);
+                return new ArrayList<>(result);
+            }
 
         } catch (Exception e) {
             return Collections.emptyList();
