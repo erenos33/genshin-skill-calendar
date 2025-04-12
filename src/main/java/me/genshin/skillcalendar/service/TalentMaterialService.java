@@ -7,7 +7,7 @@ import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 import org.springframework.stereotype.Service;
 
-import java.io.File;
+import java.io.InputStream;
 import java.util.*;
 
 @Service
@@ -22,34 +22,32 @@ public class TalentMaterialService {
         try {
             // 1. 캐릭터 JSON 열기
             Resource characterResource = new ClassPathResource("static/json/talents/" + characterName.toLowerCase() + ".json");
-            File characterFile = characterResource.getFile();
-            JsonNode root = objectMapper.readTree(characterFile);
+            try (InputStream is = characterResource.getInputStream()) {
+                JsonNode root = objectMapper.readTree(is);
+                JsonNode costs = root.path("costs");
+                if (costs.isMissingNode()) return Collections.emptyList();
 
-            JsonNode costs = root.path("costs");
-            if (costs.isMissingNode()) return Collections.emptyList();
-
-            // 2. lvl2~lvl10 순회하며 모든 재료 id 수집
-            for (int i = 2; i <= 10; i++) {
-                JsonNode levelNode = costs.path("lvl" + i);
-                if (levelNode.isArray()) {
-                    for (JsonNode item : levelNode) {
-                        if (item.has("id")) {
-                            materialIds.add(item.get("id").asInt());
+                // 2. lvl2~lvl10 순회하며 모든 재료 id 수집
+                for (int i = 2; i <= 10; i++) {
+                    JsonNode levelNode = costs.path("lvl" + i);
+                    if (levelNode.isArray()) {
+                        for (JsonNode item : levelNode) {
+                            if (item.has("id")) {
+                                materialIds.add(item.get("id").asInt());
+                            }
                         }
                     }
                 }
             }
 
-            // 3. materials 폴더 안의 모든 json 파일 탐색
-            Resource materialFolder = new ClassPathResource("static/json/materials");
-            File[] files = materialFolder.getFile().listFiles((dir, name) -> name.endsWith(".json"));
-
-            if (files == null) return Collections.emptyList();
+            // 3. materials 폴더 내 모든 파일을 InputStream으로 순회
+            Resource materialDir = new ClassPathResource("static/json/materials/");
+            String[] materialFileNames = Objects.requireNonNull(materialDir.getFile().list((dir, name) -> name.endsWith(".json")));
 
             Set<String> result = new HashSet<>();
-            for (File file : files) {
-                try {
-                    JsonNode material = objectMapper.readTree(file);
+            for (String fileName : materialFileNames) {
+                try (InputStream materialStream = new ClassPathResource("static/json/materials/" + fileName).getInputStream()) {
+                    JsonNode material = objectMapper.readTree(materialStream);
                     int id = material.path("id").asInt();
                     if (materialIds.contains(id)) {
                         JsonNode daysNode = material.path("daysOfWeek");
